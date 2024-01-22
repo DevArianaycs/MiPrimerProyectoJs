@@ -10,8 +10,9 @@ let nulo=null;
 
 
 nombre=53;
-console.log(typeof nombre); /*Se logra con éxito un cambio de valor */
+console.log(nombre); /*Se logra con éxito un cambio de valor */
 console.log(typeof numero);
 console.log(typeof verdadero);
 console.log(typeof undef);
 console.log(typeof nulo);
+/*TypeOf nos da el tipo de dato de la variable a la que se está apuntando */
