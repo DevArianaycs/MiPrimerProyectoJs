@@ -7,3 +7,5 @@ do{
     i++;
 }
 while(i<10);
+
+//la diferencia del while es que PRIMERO ejecuta el código y después evalúa la condición
