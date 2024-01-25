@@ -7,6 +7,4 @@ switch (accion){
         console.log('Acción de guardar');
         break;
     default: console.log('acción no reconocida'); //siempre que no exista la opción del case
-
-
 }
